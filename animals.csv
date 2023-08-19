@@ -1,0 +1,8 @@
+fur,milk,size,tails,flies,sleepingPattern,isMammal
+true,true,big,true,false,diurnal,true
+false,true,medium,true,false,diurnal,true
+false,false,small,false,false,nocturnal,false
+false,false,small,false,false,cathemeral,false
+false,false,small,true,false,diurnal,false
+true,false,small,false,true,diurnal,false
+false,true,big,true,false,nocturnal,true

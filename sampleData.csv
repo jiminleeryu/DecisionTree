@@ -1,0 +1,9 @@
+fur,milk,size,numberOfLimbs,tails,flies,sleepingPattern,numberOfEyes
+true,true,big,4,true,false,diurnal,2    bears
+false,true,medium,2,true,false,diurnal,2    dolphins
+false,false,small,10,false,nocturnal,2   crab
+false,false,small,4,false,false,cathemeral,2   frog
+false,false,small,2,true,false,diurnal,2        anglerfish
+true,false,small,6,false,true,diurnal,4000      flies
+false,true,big,4,true,false,nocturnal,2         hippo
+
